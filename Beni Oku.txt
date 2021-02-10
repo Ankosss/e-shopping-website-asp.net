@@ -1,0 +1,4 @@
+Kendi bilgisayarınız üzerinden açtığınızda veritabanı yolu farklı olduğundan dolayı bir hata alınabilir. yolları düzelttikten sonra düzgün bir şekilde çalışacaktır.
+admin mail/sifre
+qwe@gmail.com
+123
